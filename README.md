@@ -6,7 +6,7 @@
   <a href="https://arxiv.org/abs/2504.07491"><img src="figures/logo.png" height="16" width="16" style="vertical-align:middle"><b> Tech Report</b></a>  |  
   <a href="https://huggingface.co/collections/moonshotai/kimi-vl-a3b-67f67b6ac91d3b03d382dd85"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="16" width="16" style="vertical-align:middle"><b> HuggingFace</b>
   </a> |
-  <a href="https://huggingface.co/spaces/moonshotai/Kimi-VL-A3B-Thinking/">💬<b>Chat with Latest Kimi-VL</b></a>
+  <a href="https://huggingface.co/spaces/moonshotai/Kimi-VL-A3B-Thinking/">💬<b>Chat with Latest Kimi-VL (2506)</b></a>
 </div>
 
 
